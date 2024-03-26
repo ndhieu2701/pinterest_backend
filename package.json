@@ -1,0 +1,19 @@
+{
+  "name": "pinterest_backend",
+  "version": "1.0.0",
+  "description": "backend of pinterest clone",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ndhieu2701/pinterest_backend.git"
+  },
+  "author": "ndhieu2701",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ndhieu2701/pinterest_backend/issues"
+  },
+  "homepage": "https://github.com/ndhieu2701/pinterest_backend#readme"
+}
