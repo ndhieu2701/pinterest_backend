@@ -9,7 +9,8 @@ const config = {
   cloudName: process.env.CLOUD_NAME,
   cloudApiKey: process.env.CLOUD_API_KEY,
   cloudApiSecret: process.env.CLOUD_API_SECRET,
-  pathApi: process.env.PATH_API
+  pathApi: process.env.PATH_API,
+  defaultAvatar: process.env.DEFAULT_AVATAR
 };
 
 export default config;
